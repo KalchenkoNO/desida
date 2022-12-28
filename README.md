@@ -1,0 +1,2 @@
+# desida
+An Portage repository
