@@ -1,2 +1,2 @@
 # desida
-An Portage repository
+A Portage repository
