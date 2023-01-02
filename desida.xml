@@ -1,0 +1,14 @@
+<repositories version="1.1" encoding="unicode">
+  <repo quality="experimental" priority="100" status="unofficial">
+    <name>desida</name>
+    <description>Personal overlay by Desida</description>
+    <homepage>https://github.com/KalchenkoNO/desida</homepage>
+    <owner>
+      <email>kalchenko-no@yandex.ru</email>
+      <name>Nikita Kalchenko</name>
+    </owner>
+    <source type="git" branch="main">https://github.com/KalchenkoNO/desida.git</source>
+    <source type="git" branch="main">git@github.com:KalchenkoNO/desida.git</source>
+    <feed>https://github.com/KalchenkoNO/desida/commits/master.atom</feed>
+  </repo>
+</repositories>
